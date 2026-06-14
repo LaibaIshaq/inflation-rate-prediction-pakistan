@@ -1,3 +1,7 @@
+# Output
+<img width="516" height="315" alt="image" src="https://github.com/user-attachments/assets/1cfb7a11-d1d5-446b-92ad-3d488e2a09c1" />
+
+
 # Inflation Rate Prediction in Pakistan Using Machine Learning
 
 This project predicts Pakistan's inflation rate using historical economic indicators and a Lasso Regression model. It was prepared as an Artificial Intelligence lab project and converted from the original Word report into a runnable GitHub project.
@@ -75,12 +79,6 @@ The workflow follows these steps:
 - `data/inflation_data.xlsx` - Excel copy of the dataset
 - `docs/ai inflation final.docx` - original project report
 - `assets/` - images extracted from the report
-
-## Authors
-
-- Laiba Ishaq
-- Hira Hafeez
-- Syed Murtaza Aali
 
 ## Course
 
